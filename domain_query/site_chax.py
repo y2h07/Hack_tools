@@ -42,3 +42,4 @@ cx(url,csite,head)
 #输出查询时长
 end = time.time()
 print("查询时间：" , end-start)
+print('初代版本')
